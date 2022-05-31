@@ -1,5 +1,55 @@
-.img logoprincipal {
-    position: absolute;
-    left: 90px;
-    top: 70px;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-color: #E8E3E6;
+    font-family: 'Montserrat';
 }
+
+.containerlogo{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.menuprincipal{
+    display: flex;
+    margin-top: 62px;
+    justify-content: center;
+}
+
+.menuprincipal a{
+    font-family: 'Montserrat';
+    font-size: 17px;
+    text-decoration: none;
+
+}
+
+.menuprincipal ul{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+
+}
+
+.menuprincipal ul li{
+    float: left;
+    padding: 0px 30px;
+
+}
+
+.menuprincipal  li:hover a{
+    color: #523956;
+    font-weight: bold;
+}
+
+.sobre{
+    margin-top: 52px;
+    background-color: #523956;
+    width: 1590px;
+    height: 299px;
+    color: #E8E3E6;
+    text-align: center;
+    vertical-align: middle;
+    display:inline-block;
+}
+
