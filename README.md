@@ -1,4 +1,4 @@
-![Logodamanguebytes](https://ibb.co/3MQ03k2)
+![Logodamanguebytes](https://i.ibb.co/s6zFftn/INTERNO.png)
 # MANGUEBYTES
  
 O site em desenvolvimento tem o objetivo de apresentar o nosso trabalho na **Manguebytes**, com projetos que estamos desenvolvendo ou já desenvolvidos.
