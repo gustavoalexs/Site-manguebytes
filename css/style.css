@@ -1,3 +1,5 @@
-body {
-    background-color: blueviolet;
+.img logoprincipal {
+    position: absolute;
+    left: 90px;
+    top: 70px;
 }
