@@ -5,10 +5,10 @@ O site em desenvolvimento tem o objetivo de apresentar o nosso trabalho na **Man
 
 Abaixo segue o checklist das páginas que estão em desenvolvimento:
 
-- [] Página inicial
-- [] Equipe
-- [] Projetos
-- [] Sobre
-- [] Contato
+- [x] Página inicial
+- [ ] Equipe
+- [ ] Projetos
+- [ ] Sobre
+- [ ] Contato
 
 ***
